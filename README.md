@@ -19,17 +19,17 @@ We propose to evaluate existing AI systems using the violation-of-expectations (
 Our InfLevel benchmark focuses on three physical principles that have been extensively studied, Continuity, Solidity, and Gravity, modeled on past experimental work in developmental psychology. See below for some examples of videos in InfLevel.  
   
 ### Continuity
-<iframe src="https://giphy.com/embed/60kfeP8HEFYtvnlLHh" class="giphy-embed" allowfullscreen="" width="368" height="207" frameborder="0"></iframe>  
-  
+<img src="https://user-images.githubusercontent.com/628838/197284809-4cc2fa55-f802-402a-945d-82b83502275e.gif" width="368" height="207" />
+
 The principle of Continuity states that an object should not spontaneously appear or disappear. Infants as young as 2.5 months of age are able to reason about Continuity violations. For instance, they detect a violation when an object that is passing behind two occluders positioned a short distance apart fails to become visible between them. Similarly, they detect a violation when a cover is lowered over an object, slid to the side, and then lifted to reveal no object. In our Continuity trials an object may magically appear or disappear under a cover.  
       
 ### Solidity
-<iframe src="https://giphy.com/embed/gao543z72eCe19l1pW" class="giphy-embed" allowfullscreen="" width="368" height="207" frameborder="0"></iframe>  
-  
+<img src="https://user-images.githubusercontent.com/628838/197284963-baa78439-165d-4393-b2e7-ee6ac547986e.gif" width="368" height="207" />
+
 The principle of Solidity states that two solid objects should not be capable of passing through one another. By 3.5 to 4.5 months of age, infants are surprised when a screen rotates through the space occupied by an object in its pat, when a toy car rolls through the space occupied by an object, or when an object is lowered into a container that is then moved forward and to the side to reveal the object standing in its initial position. As shown above, our Solidity trials involve objects which may magically pass through a cover.  
   
 ### Gravity
-<iframe src="https://giphy.com/embed/Aw0pVBROEMySseHgNq" class="giphy-embed" allowfullscreen="" width="368" height="207" frameborder="0"></iframe>  
+<img src="https://user-images.githubusercontent.com/628838/197285079-5e71f6fe-d315-479c-823f-69cd66a921e5.gif" width="368" height="207" />
   
 This principle states that unsupported objects should fall. By at least 4.5 months of age, infants are surprised when objects float unsupported. In our physically implausible trials, an object appears to float in the middle of a tube or falls through a closed container.  
   
