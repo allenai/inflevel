@@ -1,0 +1,4 @@
+numpy<2.0.0,>=1.24.0
+pandas
+compress-pickle
+compress-json
